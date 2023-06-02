@@ -2,9 +2,9 @@
 
 /**
  * binary_tree_delete - Deletes the entire binary tree
- * 
+ *
  * @tree: Pointer to the root node of the tree to delete
- * 
+ *
  * Return: 0
 */
 
